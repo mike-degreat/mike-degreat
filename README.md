@@ -1,7 +1,17 @@
 ### Hi👋, I'm Michael Okoronu
 
-<!--
-**mike-degreat/mike-degreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/twitter/follow/m_okoronu?Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white social alt="Twitter Badge"/>
+  </a>
+   <a href="www.linkedin.com/in/michaelokoronu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>                                                                                                                                                  
+                                                                                                                                                      
+</div>
+</div>
 
 Here are some ideas to get you started:
 
